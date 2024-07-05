@@ -21,7 +21,8 @@
 
     ```PowerShell
     cd ~/AppData/Roaming/FlowLauncher/Themes
-    curl -o MojitoPro.xaml https://raw.githubusercontent.com/mishatoshi/mojito-flowlauncher-theme/main/themes/MojitoPro.xaml
+    curl -o MojitoPro.xaml https://raw.githubusercontent.com/mishatoshi/mojito-pro-flowlauncher-theme/main/themes/MojitoPro.xaml
+    
     ```
 
 1. Restart the **Flow Launcher** `F5`
