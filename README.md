@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="./mojito-pro-logo.png"  width="100px" height="100px">
+  <img src="./mojito-pro.png"  width="100px" height="100px">
   <h1>Mojito Pro for Flow Laucher</h1>
   <h3>Beautiful green theme for comfortable work</h3>
 </div>
 
 <p align="center">
-  <img src="https://github.com/mishatoshi/mojito-pro-vscode-theme/assets/110047849/8f2e9834-66e6-4aa8-a4e6-89967f8db505">
+  <img src="https://github.com/user-attachments/assets/3ff03766-4549-40e2-9369-3d876d90ac32">
 </p>
 <p align="center">
-  <img src="https://github.com/mishatoshi/mojito-pro-vscode-theme/assets/110047849/5169a26e-6fb2-4b28-8fa1-760baa1c9e3a">
+  <img src="https://github.com/user-attachments/assets/b4d825b0-4ae1-424b-af24-592e5b6d7f37">
 </p>
 
 ## Getting started
