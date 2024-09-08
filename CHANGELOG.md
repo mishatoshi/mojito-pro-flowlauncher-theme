@@ -1,5 +1,13 @@
 # Mojito Pro for Flow Laucher
 
+## v2.0.1
+
+### Patch Changes
+
+- Changing the color for ItemSubTitleSelectedStyle.
+
+___
+
 ## v2.0.0
 
 ### Major Changes
