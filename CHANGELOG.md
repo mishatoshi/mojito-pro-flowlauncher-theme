@@ -1,5 +1,13 @@
 # Mojito Pro for Flow Laucher
 
+## v3.0.0
+
+### Major Changes
+
+- Add Mojito Pro Dark theme.
+
+___
+
 ## v2.0.1
 
 ### Patch Changes
@@ -18,4 +26,4 @@ ___
 
 ## v1.0.0
 
-- Initial release
+- Initial release.
