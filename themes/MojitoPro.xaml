@@ -32,7 +32,7 @@
         x:Key="QuerySuggestionBoxStyle"
         BasedOn="{StaticResource BaseQuerySuggestionBoxStyle}"
         TargetType="{x:Type TextBox}">
-        <Setter Property="Background" Value="#092A14" />
+        <Setter Property="Background" Value="#072210" />
         <Setter Property="Foreground" Value="#1D7C3B" />
         <Setter Property="FontSize" Value="26" />
         <Setter Property="Padding" Value="0,4,66,0" />
@@ -49,7 +49,7 @@
             </Setter.Value>
         </Setter>
         <Setter Property="CornerRadius" Value="10" />
-        <Setter Property="Background" Value="#092A14" />
+        <Setter Property="Background" Value="#072210" />
     </Style>
     <Style
         x:Key="WindowStyle"
