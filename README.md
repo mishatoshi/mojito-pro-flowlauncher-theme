@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="./MojitoPro-Logo.png"  width="100px" height="100px">
+  <img src="./Mojito-Logo-512.png"  width="100px" height="100px">
   <h1>Mojito Pro for Flow Laucher</h1>
   <h3>Beautiful green theme for comfortable work</h3>
 </div>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/136626ae-0c8b-46bc-8d65-9b234fd65751">
+  <img src="https://github.com/user-attachments/assets/a684d175-7439-4bb5-bedb-8c3fe95691a7">
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bc37060d-3584-4e6c-968a-778074d5920c">
+  <img src="https://github.com/user-attachments/assets/d5bf7d08-0d12-4a09-8452-f20f0dce8e8d">
 </p>
 
 ## Getting started
