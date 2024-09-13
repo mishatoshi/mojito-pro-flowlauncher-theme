@@ -1,14 +1,24 @@
 # Mojito Pro for Flow Laucher
 
+## v2.2.0
+
+### Minor Changes
+
+* The color has been changed:
+  * background color
+  * foreground color
+
+___
+
 ## v2.1.0
 
 ### Minor Changes
 
-- Change background color.
+- Changed the background color
 
 ### Patch Changes
 
-- Remove Mojito Pro Dark.
+- Remove Mojito Pro Dark
 
 ___
 
@@ -16,7 +26,7 @@ ___
 
 ### Patch Changes
 
-- Changing the color for ItemSubTitleSelectedStyle.
+- Changing the color for ItemSubTitleSelectedStyle
 
 ___
 
@@ -24,10 +34,10 @@ ___
 
 ### Major Changes
 
-- The color theme has received a new improved color palette.
+- The color theme has received a new improved color palette
 
 ___
 
 ## v1.0.0
 
-- Initial release.
+- Initial release
