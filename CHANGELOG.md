@@ -1,12 +1,25 @@
 # Mojito Pro for Flow Laucher
 
+## v2.3.0
+
+### Minor Changes
+
+- The color has been changed:
+  - background
+  - foreground
+  - foreground description
+  - selection background
+  - border
+
+___
+
 ## v2.2.0
 
 ### Minor Changes
 
-* The color has been changed:
-  * background color
-  * foreground color
+- The color has been changed:
+  - background color
+  - foreground color
 
 ___
 
