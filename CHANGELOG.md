@@ -1,5 +1,13 @@
 # Mojito Pro for Flow Laucher
 
+## v2.3.1
+
+### Patch Changes
+
+- Reduced color saturation for the **Mojito Pro**
+
+___
+
 ## v2.3.0
 
 ### Minor Changes
