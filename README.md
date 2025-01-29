@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./images/mojito-logotype-512.png"  width="100px" height="100px">
   <h1>Mojito Pro for Flow Laucher</h1>
-  <h3>Beautiful green theme for comfortable work</h3>
+  <h3>"Mojito Theme – easy on the eyes, boosting productivity!" 🎨🍃</h3>
 </div>
 
 <p align="center">
