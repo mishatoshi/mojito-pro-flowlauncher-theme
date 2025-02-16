@@ -5,11 +5,11 @@
 </div>
 
 <p align="center">
-  <img src="./images/Mojito Pro for Flow Launcher.png">
+  <img src="./images/image-1.png">
 </p>
 
 <p align="center">
-  <img src="./images/Mojito Pro for Flow Launcher Full.png">
+  <img src="./images/image-2.png">
 </p>
 
 ## Getting started
