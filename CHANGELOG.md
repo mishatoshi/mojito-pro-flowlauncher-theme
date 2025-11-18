@@ -1,5 +1,24 @@
 # Mojito Pro for Flow Launcher
 
+## v2.0.0
+
+### Major Changes
+
+- Add: Mojito Pro Dark and Mojito Pro Night
+
+### Minor Changes
+
+- Add: **Hotkey BG** color and **Hotkey BG Selected** color in **Result hotkey**
+- Add: **Bullet** color and **Bullet Selected** color in **Bullets**
+
+### Patch Changes
+
+- Fix: Changed **Title** color and **Title Selected** color in **Result title**
+- Fix: Changed **Selected Background** color in **Selected result**
+- Fix: Changed **Glyph** color and **Glyph Selected** color in **Result glyph**
+
+___
+
 ## v1.2.0
 
 ### Minor Changes
