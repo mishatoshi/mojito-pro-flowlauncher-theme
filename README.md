@@ -1,16 +1,20 @@
 <div align="center">
-  <img src="./images/mojito-logotype-512.png"  width="100px" height="100px">
-  <h1>Mojito Pro for Flow Laucher</h1>
-  <h3>🍃 Easy on the eyes, boosting productivity!</h3>
+  <img src="./images/mojito-pro-logo-full.png" height="150px">
+  <h1>Flow Launcher</h1>
 </div>
 
-<p align="center">
-  <img src="./images/image-1.png">
-</p>
-
-<p align="center">
-  <img src="./images/image-2.png">
-</p>
+<div align="center">
+  <h2>Mojito Pro</h2>
+  <img src="./images/mojito-pro.png">
+</div>
+<div align="center">
+  <h2>Mojito Pro Dark</h2>
+  <img src="./images/mojito-pro-dark.png">
+</div>
+<div align="center">
+  <h2>Mojito Pro Night</h2>
+  <img src="./images/mojito-pro-night.png">
+</div>
 
 ## Getting started
 
@@ -20,14 +24,32 @@
 
 1. Open **Windows Terminal**, **PowerShell** or **Git Bash** and run:
 
+    * Mojito Pro
+
     ```PowerShell
     cd ~/AppData/Roaming/FlowLauncher/Themes
-    curl -o MojitoPro.xaml https://raw.githubusercontent.com/mishatoshi/mojito-pro-flowlauncher-theme/main/themes/MojitoPro.xaml
+    curl -o MojitoPro.xaml https://raw.githubusercontent.com/mishatoshi/mojito-pro-flowlauncher-theme/refs/heads/main/themes/MojitoPro.xaml
+
+    ```
+
+    * Mojito Pro Dark
+
+    ```PowerShell
+    cd ~/AppData/Roaming/FlowLauncher/Themes
+    curl -o MojitoProDark.xaml https://raw.githubusercontent.com/mishatoshi/mojito-pro-flowlauncher-theme/refs/heads/main/themes/MojitoProDark.xaml
+
+    ```
+
+    * Mojito Pro Night
+
+    ```PowerShell
+    cd ~/AppData/Roaming/FlowLauncher/Themes
+    curl -o MojitoProNight.xaml https://raw.githubusercontent.com/mishatoshi/mojito-pro-flowlauncher-theme/refs/heads/main/themes/MojitoProNight.xaml
 
     ```
 
 1. Restart the **Flow Launcher** `F5`
-1. Go to **Flow launcher > Settings** `Ctrl + I` > **Appearance** > **Theme** and select **MojitoPro** theme.
+1. Go to **Flow launcher > Settings** `Ctrl + I` > **Appearance** > **Theme** and select **Mojito Pro** or **Mojito Pro Dark** or **Mojito Pro Night**.
 
 ## Other versions
 
