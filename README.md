@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./images/mojito-pro-logo-full.png" height="150px">
-  <h1>Flow Launcher</h1>
+  <h1>for Flow Launcher</h1>
 </div>
 
 <div align="center">
